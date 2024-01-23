@@ -4,6 +4,8 @@ Program Director of the MS Data Analytics Program at Canisius University, Buffal
 
 I am an applied interdisciplinary data scientist,  I have worked in paleontology, geology, evolutionary biology, physics and forensics.
 
+I live south of Buffalo, in the snowbelt,  next to the largest park in the county
+
 <!--
 **hdsheets/hdsheets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
